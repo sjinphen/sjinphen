@@ -1,2 +1,3 @@
 print('Hello Dunia !!')
-print('Belajar AI')
+print('Belajar ML')
+print('Yes')
